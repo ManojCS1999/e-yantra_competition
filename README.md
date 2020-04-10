@@ -18,6 +18,3 @@ HARDWARE:
            Ambu bag.
 SOFTWARE:
 Python and Raspbian OS 
-
-# Data Flow Diagram
-
